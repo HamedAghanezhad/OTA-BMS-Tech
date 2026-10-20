@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.1",
-    "url":  "https://ota.bmstech.ir/relay8/firmware_1.0.1.bin",
-    "md5":  "5b27baeea7657e996534c77212a79c90",
+    "version":  "1.0.2",
+    "url":  "https://raw.githubusercontent.com/HamedAghanezhad/OTA-BMS-Tech/main/relay8/firmware_1.0.2.bin",
+    "md5":  "399c1c45c24f3a1e9a82238fbaf060b1",
     "notes":  "First Release"
 }
