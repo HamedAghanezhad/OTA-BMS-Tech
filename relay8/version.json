@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.2",
-    "url":  "https://raw.githubusercontent.com/HamedAghanezhad/OTA-BMS-Tech/main/relay8/firmware_1.0.2.bin",
-    "md5":  "399c1c45c24f3a1e9a82238fbaf060b1",
-    "notes":  "First Release"
+    "version":  "1.0.3",
+    "url":  "https://raw.githubusercontent.com/HamedAghanezhad/OTA-BMS-Tech/main/relay8/firmware_1.0.3.bin",
+    "md5":  "5bbfddebfbf98d63e862c2a47fa79dcb",
+    "notes":  "mqqt pwa sink"
 }
